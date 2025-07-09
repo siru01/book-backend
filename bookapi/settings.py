@@ -3,8 +3,8 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 ALLOWED_HOSTS = [
-    'book-backend-1-mdlq.onrender.com',  # old
-    'book-backend-4o76.onrender.com',    # ✅ add this
+    'book-backend-1-mdlq.onrender.com',  
+    'book-backend-4o76.onrender.com',    
     'localhost',
     '127.0.0.1'
 ]
